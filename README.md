@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🎥 NeRF Training & Rendering in Google Colab
 
 This project provides a simple pipeline to **train and render Neural Radiance Fields (NeRF)** models directly in **Google Colab**. Users can choose from preset datasets or upload their own images, videos, Polycam, or Record3D captures.  
@@ -50,6 +49,3 @@ In Colab:
 * Google Colab for cloud-based training
 * Torch & Numpy for ML backend
 
-```
-
-```
